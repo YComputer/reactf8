@@ -1,0 +1,3 @@
+rootProject.name = 'reactf8'
+
+include ':app'
